@@ -1,2 +1,2 @@
-# OsuHack2017
+# OSUHack2017
 STEM Toolkit
